@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shakes103
-- 👀 I’m interested in software and web development 
-- 🌱 I’m currently learning React and CSS Grid while specialising on Frontend web development
+- 👋 Hi, I’m Onyema Ogbechie
+- 👀 I’m a web developer who specialises in frontend web development technologies
+- 🌱 My current frontend technologies and frameworks of choice are React, Redux, Bootstrap, Tailwind CSS, Next.js and Firebase
 - 💞️ I’m looking to collaborate on projects to enhance my skills and further advance my career in this field
 - 📫 You can reach me via my email: shakespare103@gmail.com and twitter handle @sedric103
 
